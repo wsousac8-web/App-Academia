@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "app-android",
+    "slug": "snack-187d811f-8aef-43a7-aedd-4899a688299a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.wesley29.snack187d811f8aef43a7aedd4899a688299a"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0f28985e-0de3-405d-891c-9f3cf95bf3f6"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
